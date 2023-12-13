@@ -3,7 +3,7 @@
 -Download ffmpeg -> ffmpeg-git-essentials.7z and extract them in bot folder <br />
 **from https://www.gyan.dev/ffmpeg/builds**<br />
 -**install requirements**<br />
--**open main put your bot token in the token variable and run ! Enjoy**<br />
+-**open main.py put your bot token in the token variable and run ! Enjoy**<br />
 ## Commands:<br />
 *default prefix: "!"*<br />
 *prefix play<br />*
