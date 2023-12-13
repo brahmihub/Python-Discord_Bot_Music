@@ -1,8 +1,8 @@
 # Python-Discord_Bot_Music<br />
 ## How to Use:<br />
 -Download ffmpeg -> ffmpeg-git-essentials.7z and extract them in bot folder <br />
--**from https://www.gyan.dev/ffmpeg/builds**<br />
--**install requirements**
+**from https://www.gyan.dev/ffmpeg/builds**<br />
+-**install requirements**<br />
 -**open main put your bot token in the token variable and run ! Enjoy**<br />
 ## Commands:<br />
 *default prefix: "!"*<br />
