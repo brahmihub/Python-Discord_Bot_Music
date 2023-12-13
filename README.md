@@ -1,6 +1,6 @@
 # Python-Discord_Bot_Music<br />
 ## How to Use:<br />
-**[open main put your bot token in the token variable and run ! Enjoy](https://www.gyan.dev/ffmpeg/builds/)**<br />
+**https://www.gyan.dev/ffmpeg/builds**<br />
 **open main put your bot token in the token variable and run ! Enjoy**<br />
 ## Commands:<br />
 **"prefix play<br />*
