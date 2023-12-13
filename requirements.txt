@@ -1,0 +1,6 @@
+discord==2.2.2
+pytube
+ffmpeg
+youtube-search-python
+discord-py-slash-command
+PyNaCl
